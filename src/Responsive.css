@@ -1,0 +1,136 @@
+@media screen and (max-width:1022px){
+ 
+.main{
+    position: relative;
+    width: 1150px;
+  }
+  
+  .head-bar {
+    position: relative;
+    width: 1150px;
+    height: 120px;
+    background: var(--primary-color) ;
+  }
+  
+  .nav1{
+    margin-left: 10px;
+    margin-top: 5px;
+    width: 1000px;
+    height: 107px;
+  }
+  
+  .btn-i{
+    position: relative;
+    display: flex;
+    left: 400px;
+    border-radius: 3px;
+    margin-left: 10px;
+  }
+
+  .btn-item,
+  .btn-item1,
+  .btn-item2{
+      display: none;
+  }
+
+  .btn-item4{
+      display: flex;
+  }
+
+  .nav2{
+    position: relative;
+    display: inline-block;
+    margin-left: 10px;
+    width: 1120px;
+  }
+
+  /* banner-section */
+  
+  .banner{
+    position: relative;
+    width:  1150pX;
+    
+  }
+  .banner-i{
+    position: relative;
+    width:  1150px;
+    left: -12px;
+  }
+  
+  .banner-img{
+    width:  1150px;
+  } 
+  
+  .content-item{
+    position: absolute;
+    width: 850px;
+  }
+  .search-box{
+    position: absolute;
+    top: 250px;
+    display: block;
+    width: 596px;
+    height: 183px;
+    line-height: 20px;
+    margin: 24px 0 16px 0;
+    left: 145px;
+  }
+  
+  .input-o{
+    width: 580px;
+    height: 55px;
+    line-height: 20px;
+    margin: 2px 0 2px 5px;
+  }
+  
+  .input-i{
+    width: 366px;
+    height: 38px;
+  }
+  
+  .input-logo{
+    width: 25px;
+    height: 25px;
+  }
+  
+  .input-img{
+    width: 25px;
+    height: 25px;
+  }
+  
+  .input-box{
+    width: 555px;
+    height: 40px;
+    position: relative;
+  }
+  .check-k{
+    position: relative;
+    display: flex;
+    margin-top: 5px;
+  }
+  .check-o{
+    width: 281px;
+    height: 55px;
+  }
+  
+  .check-i{
+    width: 295px;
+    height: 38px;
+  }
+  
+  .room-o{
+    width: 295px;
+    height: 55px;
+  }
+  
+  .search-o{
+    width: 580px;
+    height: 55px;
+  }
+  
+  .search-btn{
+    width: 580px;
+    margin-top: 5px;
+  }
+  
+}
